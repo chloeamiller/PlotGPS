@@ -16,7 +16,7 @@
 
 # SET WORKING DIRECTORY -----------------------------
 cat("SETTING WORKING DIRECTORY...\n\n", sep = "")
-wd <- "~/PlotGPS"
+wd <- "~/PlotGPSfolder"
 setwd(wd)
 cat("WORKING DIRECTORY HAS BEEN SET TO: ", wd, sep = "")
 
